@@ -1,2 +1,2 @@
 # calculadoraPromedio
-## Diana Elizabeth Yaguana Jimenz
+## Diana Elizabeth Yaguana Jimenez
